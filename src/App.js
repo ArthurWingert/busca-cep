@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="container_cep">
       <div className="subcontainer_cep">
-        <h1 className="search_cep">Busque seu CEP</h1>
+        <h1 className="search_cep">Busque seu CEPP</h1>
       </div>
       <div className="subcontainer">
         <div className="cep">
